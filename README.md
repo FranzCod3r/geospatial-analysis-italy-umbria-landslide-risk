@@ -7,8 +7,8 @@ The aim of the project is to demonstrate the flexibility and speed of Python in 
 
 ## Dashboard Finale
 ## Geospatial Output (Choropleth + Statistical Plots)
-<img src="images/mappa_rischio.png" width="500">
+<img src="images/mappa_rischio.png" width="800">
 
-<img src="images/barplot_comuni.png" width="500">
+<img src="images/barplot_comuni.png" width="600">
 
-<img src="images/donut_frane.png" width="500">
+<img src="images/donut_frane.png" width="600">
