@@ -5,10 +5,12 @@ In this notebook, we will calculate and analyze the landslide risk index using o
 The aim of the project is to demonstrate the flexibility and speed of Python in analyzing geospatial datasets compared to traditional GIS systems, as well as the ease of creating graphical representations for statistical maps.
 **The project contains a folder named ‘data’ that holds the files used for the analysis.**
 
-## Dashboard Finale
-## Geospatial Output (Choropleth + Statistical Plots)
+## Geospatial Output - Dashboard Finale
+### Choropleth Map - Landslide Index
 <img src="images/mappa_rischio.png" width="800">
 
+## Barplot - Landslides recorded by Municipality
 <img src="images/barplot_comuni.png" width="600">
 
+## Donut Chart - Landslide Types count % 
 <img src="images/donut_frane.png" width="600">
