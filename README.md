@@ -9,7 +9,7 @@ The aim of the project is to demonstrate the flexibility and speed of Python in 
 ### Choropleth Map - Landslide Hazard Index - Indice di Franosità
 <img src="images/mappa_rischio.png" width="800">
 
-## Barplot - Landslides recorded by Municipality - Numero di Frane per Comune
+## Barplot - Landslides recorded by Municipality - Numero di Frane per Comune 
 <img src="images/barplot_comuni.png" width="600">
 
 ## Donut Chart - Landslide Types - Tipologie di Frana  
